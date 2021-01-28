@@ -1,4 +1,241 @@
-.sidebar--navContent--sh3Ue{
+.sidebar--navContent--sh3Ue,
+.scroll_container--innerScrollContainer--21gfN,
+.tiles_view--listHeaderContainer--2yaBL,
+.tool_bar--toolBarContainer--UoZDp,
+.file_browser_page_view--container--88Ioi,
+body,
+.object_row--row--2t1Gu,
+.left_panel--panelContainer--1OR1n,
+.pages_panel--pageRow--2vEox,
+.component_sidebar--container--3KRL4,
+.properties_panel--propertiesPanel--3PCth,
+.raw_components--rowSelectedSecondary--N6MBn,
+.draggable_modal--frame--ZkQEE,
+.paint_panels--colorValueContainer--2qjN-:focus-within,
+.community_hub_landing--_communityHubContentBackground--21WhA,
+.search_view_bar--searchModelToggles--3Y9zr,
+.community_hub_view_bar--viewBar--11wgO,
+.search--searchInput--2JmjM,
+.search_view_bar--searchParameters--3qqT_,
+.library_section_header--sectionHeaderH3--1mPSU,
+.library_section_header--sectionHeaderH1--376h0,
+.properties_panel--stylePreviewContainer--2kTGt,
+.search_scope_toggle--selected--1-BCz,
+.tool_bar--mobileActionsContainer--3943g,
+.entity--headerRow--1bvIf,
+.plugin_landing_page_list_view--headerRow--3xN4J,
+.detail_view--subheader--1b4Ca,
+.nav_container--container--3X-Fv,
+.thread_comment--_threadElement--1My4B,
+.comments_list--commentDateGroupHeader--1TjR- {
+    background-color: #252525 !important;
+}
+
+.in_app_page--appFont--3IVZv,
+.generic_tile--title--2uQVI,
+.avatar--avatarWithHandle--2G2Vu .avatar--handle--fICEU,
+.org_home_view_meta_content--orgName--3XeZo,
+.tab--selected--2mpPj,
+.object_row--row--2t1Gu,
+.pages_panel--tabActive--JOVKa:after,
+.search--margin12__DEPRECATED--1Pxl5 .search--searchInput__DEPRECATED--3LJnm,
+.inspect_panels--propertyValue--3JJTg,
+.layout_size_select--readOnlyText--1nQx4,
+.colors_inspect_panel--paintColor--3ZzMz,
+.library_section_header--sectionHeaderH3--1mPSU,
+.library_section_header--sectionHeaderH1--376h0,
+.search--searchInput--2JmjM,
+.community_hub_landing--categoryHeader--2B4RE,
+.pill--pill--16Ivd,
+.community_hub_landing--selected--3YlhU,
+.discover_creators--discoverCreatorsLargeHeader--P1mWa,
+.discover_creators--discoverCreatorsLargeSubheader--35IZN,
+.following_feed--sectionHeader--2SRkc,
+.plugins--pluginTitleWrapper--2LnQf,
+.detail_view--_name--qwdCO,
+.ql-editor h1,
+.basic_form--btn--3A-Ju,
+.detail_view--subheader--1b4Ca,
+.comments_list--commentDateGroupHeader--1TjR-,
+.plugin_tiles--h2--2JyIw,
+.plugin_tiles--installedPluginTileName--D6fJz {
+    color: white !important;
+}
+
+
+/* .svg-container path:not([fill=none]) {
+    fill: #B3B3B3 !important;
+} */
+
+.tool_bar--toolBarIconButton--3Bi-_,
+.sidebar--icon--1Z2rN,
+.raw_components--_iconButton--353Le,
+.object_row--row--2t1Gu.object_row--frame--Q78_7.object_row--topLevel--1ThUW .object_row--layerIcon--LXryZ,
+.object_row--row--2t1Gu,
+.object_row--row--2t1Gu.object_row--selected--1aGIk .object_row--layerIcon--LXryZ,
+.pages_panel--pageRow--2vEox.pages_panel--hoverByMouse--2Pat-:hover,
+.empty_states--emptyState--3JXqF,
+.option_button--_optionButton--lWjmC,
+.segmented_control--segmentUnselected--3XJuJ,
+.close_button--closeX--2ttg_,
+.hint_panel--onboardingIcon--1Bki8,
+.inspect_selection_header--headerSelectionIcon--BUgeI,
+.library_section_header--expandCaret--2Osx0,
+.style_icon--image--1eP8e {
+    fill: #B3B3B3 !important;
+}
+
+.toolbar_styles--enabledButton--2cWGq,
+.raw_components--_iconButton--353Le,
+.pages_panel--pageRowSvg--2eQfK {
+    fill: white !important;
+}
+
+.sidebar--selected--BMSeP,
+.generic_tile--listView--17VYy .generic_tile--selectedContainer--3Qx4m {
+    background-color: #1F1F1F !important;
+}
+
+.raw_components--iconButtonEnabled--1oUUU:hover,
+.sidebar--divider--2X5fS,
+.file_browser_view--fileBrowserPageViewContainer--1olui,
+.tool_bar--toolBarButton--1ecJ-:hover:not(:disabled),
+.view_mode_toggle--optionButtonUntoggled--260VM:hover,
+.segmented_control--segmentSelected--3vDJm,
+.close_button--closeX--2ttg_:hover,
+.plugin_tiles--installedPluginTileMetadata--3YBIa:hover {
+    background-color: #3B3B3B !important;
+}
+
+.tile_sort_filter--dropdownCollectionContainer--weHg0 .tile_sort_filter--dropdownContainer--2BgAd {
+    color: #B1B1B1 !important;
+}
+
+.generic_tile--tileBorder--29K0o {
+    border: 1px solid #3B3B3B !important;
+}
+
+.sidebar--navDefault--1zbCB,
+.tool_bar--toolBarContainer--UoZDp,
+.search_view_bar--searchViewBar--3Wshj,
+.tool_bar--mobileActionsContainer--3943g {
+    box-shadow: none !important;
+}
+
+.generic_tile--listView--17VYy .generic_tile--accessedAt---Sj9r,
+.tool_bar--toolBarButton--1ecJ-,
+.org_home_view_meta_content--description--2Gs02,
+.folder_view--contributorsHeader--1qJD9,
+.object_row--row--2t1Gu.object_row--selected--1aGIk .object_row--layerIcon--LXryZ,
+.pages_panel--tab--3s1Y5:hover:after,
+.raw_components--base--3TpZG,
+.option_button--_optionButton--lWjmC,
+.draggable_list--panelTitleText--1q89R,
+.segmented_control--segmentUnselected--3XJuJ,
+.style_grid--sectionHeaderFileName--2h4RZ,
+.close_button--closeX--2ttg_,
+.hint_panel--onboardingIcon--1Bki8,
+.inspect_selection_header--headerSelectionIcon--BUgeI,
+.inspect_panels--propertyName--8O9s7,
+.raw_components--panelTitle--7MaOu,
+.hljs-attribute,
+.code_inspection_panels--inspectorRow--f19we,
+.generic_tile--touchedAt--2B2vE,
+.generic_tile--createdAt--aMXEq,
+.library_section_header--breadcrumbPath--33Wog,
+.library_section_header--expandCaret--2Osx0,
+.style_icon--image--1eP8e,
+.search_results_view--emptyStateText--Vs4KJ,
+.tile_sort_filter--dropdownContainerDisabled--d7U_e,
+.tab--unselected--2T1WZ,
+.search_model_toggle--tabCountUnhighlighted--24ewl,
+.search_scope_toggle--container--1w5aQ .search_scope_toggle--base--1qPkk:not(:first-child),
+.search_scope_toggle--selected--1-BCz,
+.community_hub_landing--categoryDescription--3QfoM,
+.following_feed--sectionHeaderSubtext--E_6CK,
+.plugins--pluginListRowCell--3MrsJ,
+.plugins--pluginListRowDescription--2MU2n,
+.ql-editor p,
+.detail_view--shareLinkText--B_ZVh,
+#react-page>div>div>div:nth-child(1)>div.file_browser_view--tabletOptimizedFileBrowserPageViewContainer--1O5aq.file_browser_view--fileBrowserPageViewContainer--1olui>div.file_browser_page_view--tabletOptimizedContainer--2YFqY.file_browser_page_view--container--88Ioi>div>div>div.hub_file_detail_view--metadataContainer--2Guyq.detail_view--metadataContainer--3lEhI>div.hub_file_detail_view--metadataRight--31edk.detail_view--metadataRight--1u8Jj>div:nth-child(2)>div.detail_view--metadataSectionText--Ua2et.text--fontPos13--1DoEt.text--_fontBase--YWDo0>div>div>a>span,
+.tags_list--tag--1KhOL,
+.hub_file_detail_view--remixesSeeAllLink--2Pzva,
+.text--fontPos13--1DoEt,
+.comments_list--pageNameSubheader--1wE3D,
+.file_browser_view--fileBrowserPageViewContainer--1olui {
+    color: #B3B3B3 !important;
+}
+
+.object_row--row--2t1Gu.object_row--selected--1aGIk,
+.basic_form--btn--3A-Ju {
     background-color: black !important;
 }
 
+.object_row--row--2t1Gu.object_row--selected--1aGIk .object_row--layerIcon--LXryZ,
+.inspect_selection_header--headerSelectionIcon--BUgeI {
+    stroke: #B3B3B3 !important;
+}
+
+.properties_panel--tabsHeaderBordered--JO2Q6 {
+    border-bottom: #252525 1px solid !important;
+}
+
+.cachedSubtree>.raw_components--panel--3IcXg,
+.raw_components--panel--3IcXg,
+.inspect_panels--headerSelectionWithBorder---AMJu {
+    border-bottom: none !important;
+}
+
+.properties_panel--border--1XEFS,
+.color_picker_styles--panel--1j3jm {
+    border-top: none !important;
+}
+
+.left_panel--panelContainer--1OR1n {
+    border-right: #252525 1px solid !important;
+}
+
+.properties_panel--propertiesPanel--3PCth {
+    border-left: none !important;
+}
+
+.prototype_panel--prototypeSettingsButton--3uc7S {
+    background-color: #19a0fb !important;
+}
+
+.basic_form--btn--3A-Ju {
+    border: none !important;
+    color: white !important;
+}
+
+.option_button--toggled--2-LLL:after {
+    background-color: #4F4F4F !important;
+}
+
+.raw_components--rowSelected--1SC96 {
+    background-color: black !important;
+}
+
+.constraint_size_selector--outerBox--Po1h3,
+.alignment_view--mainContainer--2o974,
+.constraint_size_selector--innerBox--1w_sf {
+    border: 1px solid #515151 !important;
+}
+
+.slider_control--handle--1oaCD {
+    border: #1F1F1F 1px solid !important;
+}
+
+.resize_handles--_handle--2bV47.resize_handles--hover--1KR5u {
+    background-color: #4F4F4F !important;
+}
+
+.search_model_toggle--_tabCount--5fRgA,
+.search_scope_toggle--selected--1-BCz,
+.tags_list--tag--1KhOL {
+    border: 1px solid #B3B3B3 !important;
+}
+
+.tab--unselected--2mpPj>span {
+    color: red !important;
+}
