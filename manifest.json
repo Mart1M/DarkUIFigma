@@ -1,0 +1,15 @@
+{
+    "name": "Dark UI Figma",
+    "version": "1.0",
+    "description": "Dark UI extension for Figma Webapp",
+    "manifest_version": 2,
+    "permission": [
+        "http://*/*",
+        "https://*/*"
+    ],
+    "content_scripts": [
+        {
+            "css": ["content.css"]
+        }
+    ]
+  }
