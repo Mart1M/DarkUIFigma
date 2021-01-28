@@ -11,5 +11,8 @@
         {
             "css": ["content.css"]
         }
-    ]
+    ],
+    "icons": { "16": "DarkUIFigmaLogo16.png",
+        "48": "DarkUIFigmaLogo48.png",
+       "128": "DarkUIFigmaLogo128.png" }
   }
