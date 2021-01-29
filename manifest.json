@@ -3,7 +3,6 @@
     "version": "1.0",
     "description": "Dark UI extension for Figma Webapp",
     "manifest_version": 2,
-    "permissions": ["activeTab", "declarativeContent", "storage", "<all_urls>"],
     "content_scripts": [{
         "matches": ["https://www.figma.com/*"],
         "css": ["content.css"],
