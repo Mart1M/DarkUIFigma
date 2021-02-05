@@ -69,7 +69,8 @@ body,
 .plugin_tiles--installedPluginTileName--D6fJz,
 .file_template_modal--sidebarSectionSubtitle--1IG1m,
 .file_template_modal--categoryTitle--3ETxq,
-.select_folder_dropdown--dropdownContainer--TIVd0 {
+.select_folder_dropdown--dropdownContainer--TIVd0,
+.frame_presets--presetHeader--2P9B7 {
     color: white !important;
 }
 
@@ -269,4 +270,8 @@ body,
 #filebrowser-loading-page .tile .inner .lower,
 #filebrowser-loading-page .circle {
     background-color: #1F1F1F !important
+}
+
+.frame_presets--presetHeader--2P9B7 {
+    fill: white !important;
 }
