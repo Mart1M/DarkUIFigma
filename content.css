@@ -15,7 +15,6 @@ body,
 .community_hub_landing--_communityHubContentBackground--21WhA,
 .search_view_bar--searchModelToggles--3Y9zr,
 .community_hub_view_bar--viewBar--11wgO,
-.search--searchInput--2JmjM,
 .search_view_bar--searchParameters--3qqT_,
 .library_section_header--sectionHeaderH3--1mPSU,
 .library_section_header--sectionHeaderH1--376h0,
@@ -35,7 +34,13 @@ body,
 .progress_bar--progressBarPageBackground--18Dzc,
 #filebrowser-loading-page .sidebar,
 .sidebar--lastSectionFixed--28g49,
-#filebrowser-loading-page .profile-header {
+#filebrowser-loading-page .profile-header,
+.pages_panel--pagesHeaderContainerWithShadow--3_9Ml,
+.header_modal--modal--3V0h3,
+.autocomplete_input--inputWrapper--1naDE,
+.autocomplete_input--input--GaHQC,
+.autocomplete_input--container--3VOsw,
+.desktop_tool_bar--toolBarButton--PIG7r:hover:not(:disabled) {
     background-color: #252525 !important;
 }
 
@@ -52,7 +57,6 @@ body,
 .colors_inspect_panel--paintColor--3ZzMz,
 .library_section_header--sectionHeaderH3--1mPSU,
 .library_section_header--sectionHeaderH1--376h0,
-.search--searchInput--2JmjM,
 .community_hub_landing--categoryHeader--2B4RE,
 .pill--pill--16Ivd,
 .community_hub_landing--selected--3YlhU,
@@ -70,7 +74,9 @@ body,
 .file_template_modal--sidebarSectionSubtitle--1IG1m,
 .file_template_modal--categoryTitle--3ETxq,
 .select_folder_dropdown--dropdownContainer--TIVd0,
-.frame_presets--presetHeader--2P9B7 {
+.frame_presets--presetHeader--2P9B7,
+.permissions_modal--selectedTab--baDBc,
+.new_file_dropdown--displayText--1wje8 {
     color: white !important;
 }
 
@@ -134,7 +140,8 @@ body,
 .sidebar--navDefault--1zbCB,
 .tool_bar--toolBarContainer--UoZDp,
 .search_view_bar--searchViewBar--3Wshj,
-.tool_bar--mobileActionsContainer--3943g {
+.tool_bar--mobileActionsContainer--3943g,
+.desktop_tool_bar--toolBarContainer--VnCpw {
     box-shadow: none !important;
 }
 
@@ -178,7 +185,8 @@ body,
 .hub_file_detail_view--remixesSeeAllLink--2Pzva,
 .text--fontPos13--1DoEt,
 .comments_list--pageNameSubheader--1wE3D,
-.file_browser_view--fileBrowserPageViewContainer--1olui {
+.file_browser_view--fileBrowserPageViewContainer--1olui,
+.folder_page_view--overviewHeader--2GnSn {
     color: #B3B3B3 !important;
 }
 
@@ -203,7 +211,8 @@ body,
 
 .properties_panel--border--1XEFS,
 .color_picker_styles--panel--1j3jm,
-.file_template_modal--footer--3ZgYJ {
+.file_template_modal--footer--3ZgYJ,
+.permissions_modal--dividedInputSection--32etK {
     border-top: none !important;
 }
 
@@ -274,4 +283,12 @@ body,
 
 .frame_presets--presetHeader--2P9B7 {
     fill: white !important;
+}
+
+.search--searchInput--2JmjM {
+    background-color: none !important;
+}
+
+.desktop_tool_bar--toolBarContainer--VnCpw {
+    background-color: #2c2c2c !important;
 }
