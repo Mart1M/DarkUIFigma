@@ -1,0 +1,29 @@
+name: Publish
+
+on:
+  push:
+    tags:
+      - '*'
+
+jobs:
+  build:
+    name: Publish webextension
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - uses: actions/setup-node@v1
+      with:
+        node-version: 12
+    - name: Build
+      run: |
+        npm ci
+        npm run build
+    - name: Upload & release
+      uses: mnao305/chrome-extension-upload@1.1.1
+      with:
+        file-path: dist/FigmaDarkUI.zip
+        extension-id: giimcbodleepjhglbccnkccegcihjall
+        client-id: ${{ secrets.673409542105-a2g278p8m50jpbehqa15lid0ffitubv0.apps.googleusercontent.com }}
+        client-secret: ${{ secrets.v8zG1yhnaNdYxam6jopxmgfH }}
+        refresh-token: ${{ secrets.1//03VqA0ksNLLmoCgYIARAAGAMSNwF-L9IrIIFMFbr9xA9433d6bvhaocPFUU2KU7BWB9NhtPnHLG5JHqfqQsW0Pei-RFUTmghEXAs }}
