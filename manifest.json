@@ -1,17 +1,19 @@
 {
-  "name": "Dark UI",
-  "version": "1.2.0",
-  "description": "Dark UI extension for Figma Webapp",
-  "manifest_version": 2,
-  "content_scripts": [
-    {
-      "matches": ["https://www.figma.com/*"],
-      "css": ["content.css"]
+    "name": "Dark UI",
+    "version": "1.2.0",
+    "description": "Dark UI extension for Figma Webapp",
+    "manifest_version": 2,
+    "content_scripts": [{
+        "matches": [
+            "https://www.figma.com/*"
+        ],
+        "css": [
+            "style.css"
+        ]
+    }],
+    "icons": {
+        "16": "DarkUIFigmaLogo16.png",
+        "48": "DarkUIFigmaLogo48.png",
+        "128": "DarkUIFigmaLogo128.png"
     }
-  ],
-  "icons": {
-    "16": "DarkUIFigmaLogo16.png",
-    "48": "DarkUIFigmaLogo48.png",
-    "128": "DarkUIFigmaLogo128.png"
-  }
 }
